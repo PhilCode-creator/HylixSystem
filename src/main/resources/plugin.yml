@@ -1,0 +1,9 @@
+name: Lobby
+version: 0.1
+author: PhilCode
+main: eu.hylix.bungeecord.BungeeCordSystem
+
+commands:
+  Find:
+  Info:
+  JumpTo:

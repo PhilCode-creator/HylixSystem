@@ -1,0 +1,4 @@
+hylix.* | Alle Permissions
+hylix.find | /find <Spieler>
+hylix.info | /info <Spieler>
+hylix.iphidden | IP info versteckt
